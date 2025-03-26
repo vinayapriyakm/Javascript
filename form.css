@@ -1,0 +1,35 @@
+
+div.container{
+width:40%;
+height:400px;
+
+margin-left: 450px;
+margin-top: 10px;
+text-align: center;
+border-radius: 5px;
+margin-bottom: 40px;
+
+}
+input{
+    width: 50%;
+    height: 30px;
+    text-align: center;
+    font-size:medium;
+    margin-top: 5px;
+    
+}
+h1{
+    width: 30%;
+    height:100px;
+    margin-left: 500
+    
+    px;
+border-radius: 10px;
+text-align: center;
+border:1px solid #ff33c4;
+    margin-top: 100px;
+}
+body{
+    background: linear-gradient(45deg, #ff5733, #33c4ff, #ff33c4, #ffeb33);
+    background-repeat:no-repeat;
+}
